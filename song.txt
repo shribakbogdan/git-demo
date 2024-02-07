@@ -2,3 +2,6 @@ hi
 hello
 bi
 bye
+
+hi hello
+bi bye
